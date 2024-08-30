@@ -46,6 +46,7 @@
     <module>osgi-over-slf4j</module>
     <module>integration</module>
     <module>slf4j-migrator</module>
+    <module>clxmm-test</module>
   </modules>
 
   <dependencyManagement>
